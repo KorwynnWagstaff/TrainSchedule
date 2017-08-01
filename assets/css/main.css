@@ -1,0 +1,23 @@
+body {
+	background-color: white;
+}
+table {
+     border-collapse: separate;
+     border-spacing: 6px;
+}
+th, td {
+	text-align: center;
+}
+.jumbotron {
+     background-color: red;
+     color: white;
+}
+.panel-primary {
+	background-color: pink;
+}
+.panel-primary>.panel-heading {
+	background-color: red;
+}
+.btn {
+	background-color: red;
+}
